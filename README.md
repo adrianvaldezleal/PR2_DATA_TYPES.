@@ -1,4 +1,4 @@
-# PR2_DATA_TYPES.
+# PR2_DATA_TYPES
 PRACTICA DE DATA TYPES
 #Angel Adrian Valdez Leal 3-W
 
